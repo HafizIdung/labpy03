@@ -59,7 +59,7 @@ Code program tersebut:
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/db2b670f8d7f34ed4a0ae286dd7a3d3a853fed97/Image/Screenshot%20From%202024-10-29%2011-04-41.png)
+![gambar]("C:\Users\hafiz\OneDrive\Gambar\Screenshot\Cuplikan layar 2024-10-31 125703.png")
 
 # Latihan2.py
 
@@ -120,11 +120,11 @@ Baris-baris ini mencetak laba untuk masing-masing bulan, dan total laba.
 
 Code program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/d19ff542f8f6a7e909f4d2828d9cfe78f1c24c86/Image/latihan2.png)
+![gambar](C:\Users\hafiz\OneDrive\Dokumen\coding hafiz\ss2.png)
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/d19ff542f8f6a7e909f4d2828d9cfe78f1c24c86/Image/Screenshot%20From%202024-10-29%2011-44-10.png)
+![gambar]()
 
 # Latihan3.py
 
@@ -202,7 +202,7 @@ Jika input pengguna tidak sesuai dengan opsi yang ada (1 atau 2), maka program a
 
 Code program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/2d34fe183a3296798cef49d24db50a2c7efd5372/Image/latihan3.png)
+![gambar](C:\Users\hafiz\OneDrive\Dokumen\coding hafiz\ss3.png)
 
 Hasil program tersebut:
 
