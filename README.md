@@ -1,4 +1,4 @@
-# Biodata
+# BIODATA
 Nama: Hafiz Abdurohman
 
 Kelas: TI.24.A4
@@ -116,12 +116,12 @@ print("Laba bulan ke-1 sebesar:", laba[0])
 ```
 Baris-baris ini mencetak laba untuk masing-masing bulan, dan total laba.
 
-Code program tersebut:
-
+***Code program tersebut :***
+<br/>
 ![gambar](ss2.png)
 
-Hasil program tersebut:
-
+***Hasil program tersebut :***
+<br/>
 ![gambar](hasil2.png)
 
 # Latihan3.py
@@ -198,10 +198,10 @@ else:
 ```
 Jika input pengguna tidak sesuai dengan opsi yang ada (1 atau 2), maka program akan menampilkan pesan Pilihan tidak valid!
 
-Code program tersebut:
-
+***Code program tersebut :***
+<br/>
 ![gambar](ss3.png)
 
-Hasil program tersebut:
-
+***Hasil program tersebut :***
+<br/>
 ![gambar](hasil3.png)
