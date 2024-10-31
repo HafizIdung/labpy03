@@ -54,7 +54,7 @@ print("Selesai")
 Setelah perulangan selesai, baris ini menampilkan pesan `"Selesai"` untuk menandakan bahwa program telah selesai menjalankan seluruh instruksi.
 
 Code program tersebut:
-<img src="Dokumen\coding hafiz\ss1.png">
+<img src="Users\hafiz\OneDrive\Dokumen\coding hafiz\hasil">
 
 Hasil program tersebut:
 <img src="Screenshot\Cuplikan layar 2024-10-31 125703.png">
