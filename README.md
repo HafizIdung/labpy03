@@ -118,7 +118,7 @@ Baris-baris ini mencetak laba untuk masing-masing bulan, dan total laba.
 
 Code program tersebut:
 
-![gambar](C:\Users\hafiz\OneDrive\Dokumen\coding hafiz\ss2.png)
+![gambar](ss2.png)
 
 Hasil program tersebut:
 
