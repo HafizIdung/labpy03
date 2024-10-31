@@ -54,12 +54,10 @@ print("Selesai")
 Setelah perulangan selesai, baris ini menampilkan pesan `"Selesai"` untuk menandakan bahwa program telah selesai menjalankan seluruh instruksi.
 
 Code program tersebut:
-
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/db2b670f8d7f34ed4a0ae286dd7a3d3a853fed97/Image/latihan1.png)
+<img src="C:\Users\hafiz\OneDrive\Dokumen\coding hafiz\ss1.png">
 
 Hasil program tersebut:
-
-![gambar]("C:\Users\hafiz\OneDrive\Gambar\Screenshot\Cuplikan layar 2024-10-31 125703.png")
+<img src="C:\Users\hafiz\OneDrive\Gambar\Screenshot\Cuplikan layar 2024-10-31 125703.png">
 
 # Latihan2.py
 
