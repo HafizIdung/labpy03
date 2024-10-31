@@ -57,7 +57,7 @@ Code program tersebut:
 ![gambar](ss1.png)
 
 Hasil program tersebut:
-<img src="Screenshot\Cuplikan layar 2024-10-31 125703.png">
+![gambar](hasil1.png)
 
 # Latihan2.py
 
@@ -122,7 +122,7 @@ Code program tersebut:
 
 Hasil program tersebut:
 
-![gambar]()
+![gambar](hasil2.png)
 
 # Latihan3.py
 
@@ -204,4 +204,4 @@ Code program tersebut:
 
 Hasil program tersebut:
 
-![gambar](https://github.com/andreanbadeh/Labpy03/blob/2d34fe183a3296798cef49d24db50a2c7efd5372/Image/Screenshot%20From%202024-10-29%2012-06-49.png)
+![gambar](hasil3.png)
