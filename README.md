@@ -1,14 +1,13 @@
 # BIODATA
-Nama: Hafiz Abdurohman
+Nama   : Hafiz Abdurohman
 
-Kelas: TI.24.A4
+Kelas  : TI . 24 . A4
 
-NIM: 312410333
+NIM    : 312410333
 
 Matkul: Bahasa Pemrograman
 
-# Soal latihan
-
+# SOAL LATIHAN
 ![gambar](https://github.com/andreanbadeh/Labpy03/blob/ead01c1a56b760fa2741e76cda7776d524b1c0e9/Image/Screenshot%20From%202024-10-29%2011-15-44.png)
 
 # Latihan1.py
@@ -58,6 +57,7 @@ Setelah perulangan selesai, baris ini menampilkan pesan `"Selesai"` untuk menand
 ![gambar](ss1.png)
 
 ***Hasil program tersebut :***
+<br/>
 ![gambar](hasil1.png)
 
 # Latihan2.py
