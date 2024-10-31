@@ -53,10 +53,11 @@ print("Selesai")
 ```
 Setelah perulangan selesai, baris ini menampilkan pesan `"Selesai"` untuk menandakan bahwa program telah selesai menjalankan seluruh instruksi.
 
-Code program tersebut:
+***Code program tersebut :***
+<br/>
 ![gambar](ss1.png)
 
-Hasil program tersebut:
+***Hasil program tersebut :***
 ![gambar](hasil1.png)
 
 # Latihan2.py
